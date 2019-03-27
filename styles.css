@@ -135,6 +135,7 @@
     }
     
     p, li {
+        color: white;
         text-align: left;
     }
 }
@@ -558,6 +559,7 @@
     }
     
     p, li {
+        color: white;
         text-align: left;
     }
   }
@@ -708,6 +710,7 @@
     }
     
     p, li {
+        color: white;
         text-align: left;
     }
 }
