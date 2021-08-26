@@ -3,11 +3,12 @@
 }
 
 #hi {
+    border-radius: 25px;
     float: left;
     margin-top: 5%;
     margin-left: 25%;
     height: 25%;
-    width: 14%;
+    width: 13%;
 }
 
 #hi2 {
