@@ -1,0 +1,26 @@
+#hello {
+    height: 100%;
+}
+
+#hi {
+    float: left;
+    margin-top: 5%;
+    margin-left: 25%;
+    height: 25%;
+    width: 14%;
+}
+
+#hi2 {
+    float: right;
+    margin-top: 5%;
+    margin-right: 25%;
+    height: 50%;
+    width: 25%;
+}
+
+#pub {
+    float:left;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
